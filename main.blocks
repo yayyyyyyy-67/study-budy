@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><comment id="!:sL:4:=$d|vANsUy@+v" x="817" y="-67" w="120" h="100"></comment><block type="pxt-on-start" id="bd(}X`IlsKTaP.*UxJY!" x="143" y="-514"><statement name="HANDLER"><block type="controls_repeat_ext" id="[.Ba4j4}YRL4x~tgbe3~"><value name="TIMES"><shadow type="math_whole_number" id="Ic0wy.rXksQ{]=Vt(PnF"><field name="NUM">12</field></shadow></value><statement name="DO"><block type="device_print_message" id="D!DQBuJbi1R[_17BrLVS"><value name="text"><shadow type="text" id="%]uoS1hQ`yan*#Iz*0`q"><field name="TEXT">STUDY </field></shadow></value><next><block type="device_show_leds" id="}%QPRAp6o3NaM2$A$LJ`"><field name="LEDS">`
+        . . # . # 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field></block></next></block></statement><next><block type="device_print_message" id="oR?5Jobf+v+u~7@SZR1g"><value name="text"><shadow type="text" id="+!=#n8AOlA9^W{G19kY2"><field name="TEXT">BREAK</field></shadow></value></block></next></block></statement></block><block type="controls_repeat_ext" id="7{+j(FGvcE:9ezWh$:]?" disabled-reasons="pxt_automatic_disabled" x="255" y="-274"><value name="TIMES"><shadow type="math_whole_number" id=".d5Y*,eB!_RHo*cFln@V" disabled-reasons="pxt_automatic_disabled"><field name="NUM">12</field></shadow></value><statement name="DO"><block type="device_print_message" id="3QgmDCw*IFc5bt^Xq79z" disabled-reasons="pxt_automatic_disabled"><value name="text"><shadow type="text" id="eQp3lpQ3SexNAQYF=6K0" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">STUDY </field></shadow></value><next><block type="device_show_leds" id="Fz6n5uz^?HL;3:St{!0a" disabled-reasons="pxt_automatic_disabled"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . # # # #
+        `</field></block></next></block></statement></block><block type="device_get_button2" id="sa^{F}|gb7r|q:u5d~qM" disabled-reasons="pxt_automatic_disabled" x="0" y="0"><field name="NAME">Button.A</field></block></xml>
